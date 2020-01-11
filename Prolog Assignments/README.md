@@ -10,8 +10,8 @@
   
 ## Instructions to Compile and Run
   Since the syntax for prolog is different than other programming languages, its strongly recommended 
-  to write statements/rules in a text editer(The shell script from Xcode is also a good option for 
-  writing statements/rules on MacOS).
+  to write statements/rules in a file rather than the console itself(The shell script from Xcode is 
+  also a good option for writing statements/rules).
   
   1. Once finished adding statements/rules save file with file extension .pl
   2. Return to terminal and on terminal prompt either input swipl(This is to open swi prolog) or
