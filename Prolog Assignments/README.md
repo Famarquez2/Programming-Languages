@@ -5,7 +5,7 @@
   If working with OS operating system's please open terminal(if bash doesn't pop up, create 
   a new command and input "bash"). Make sure to have Homebrew installed, heres link to install
   https://brew.sh and paste script in MacOS terminal prompt. After installing homebrew, install 
-  swi prolog, here's link to install https://www.swi-prolog.org/build/macos.html and paste the 
+  SWI-Prolog, here's link to install https://www.swi-prolog.org/build/macos.html and paste the 
   suitable script for your project in the MacOS terminal prompt.
   
 ## Instructions to Compile and Run
@@ -25,6 +25,19 @@
   6. To try another argument repeat step 4 or to exit prolog enter "halt."
   7. To try another file exit prolog and repeat steps 2-5
  
- The link given above for SWI-Prolog has great tutorials, visit they're website to learn more about
- logical programming. I've included a report with images along with some exercises of prolog, I hope 
+ The link given above for SWI-Prolog has great tutorials, visit the website to learn more about
+ logical programming. I've included a report with tests along with some exercises of prolog, I hope 
  you now have a better understanding of Logical Programming and Code on!
+ 
+## File Manifest
+- Prolog.docx
+- ReadMe.md
+- interleave.pl
+- mother.pl
+- parent.pl
+- second.pl
+- twice.pl
+
+## Licenses for SWI-Prolog and Homebrew
+- SWI-Prolog: Simplified BSD, LGPL prior to version 7.3.33
+- Homebrew: BSD license
