@@ -16,7 +16,7 @@
   1. Once finished adding statements/rules save file with file extension .pl
   2. Return to terminal and on terminal prompt either input swipl(This is to open swi prolog) or
      swipl "file name".pl (Do not add " ") to open a file in swi prolog. If opening file results
-     in an error like source_sink, make sure file is in the right directory or spelled correctly with 
+     in an error like source_sink, make sure file is in the correct directory or spelled correctly with 
      extension .pl
   3. Once file is successfully open, it is read and automatically compiled unless theirs an error
   4. Write an argument with correct syntax and press enter to run the statements/rules from the 
