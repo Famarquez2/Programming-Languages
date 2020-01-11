@@ -1,5 +1,5 @@
 # Prolog-Assignment
- - Purpose of this lab is to learn the basics of Prolog and how it functions.
+  Purpose of this lab is to learn the basics of Prolog and how it functions.
 
 ## Intructions to install
   If working with OS operating system's please open terminal(if bash doesn't pop up, create 
